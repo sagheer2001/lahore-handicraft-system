@@ -16,7 +16,7 @@ A small retail outlet selling locally made crafts (woodwork, textiles, pottery, 
 Build a lightweight web system to manage inventory, suppliers (artisans), and orders; give low-stock alerts and simple sales insights; demonstrate CRUD via a frontend + API.
 
 # GitHub Repository:
-https://github.com/<your-username>/lahore-handicraft-system
+https://github.com/sagheer2001/lahore-handicraft-system
 
 # My Individual Role:
 1- Act as full-stack developer: gather requirements from the shop owner, design data model, implement backend API and frontend UI, write basic tests, and document everything.

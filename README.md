@@ -19,20 +19,20 @@ Build a lightweight web system to manage inventory, suppliers (artisans), and or
 https://github.com/sagheer2001/lahore-handicraft-system
 
 # My Individual Role:
-1- Act as full-stack developer: gather requirements from the shop owner, design data model, implement backend API and frontend UI, write basic tests, and document everything.
+- Act as full-stack developer: gather requirements from the shop owner, design data model, implement backend API and frontend UI, write basic tests, and document everything.
 
-2- Coordinate project tasks and manage meaningful Git commits.
+- Coordinate project tasks and manage meaningful Git commits.
 
 # Technologies Used:
-1- Backend: Node.js + Express, with a simple database (SQLite or MongoDB).
+- Backend: Node.js + Express, with a simple database (SQLite or MongoDB).
 
-2- Frontend: HTML + vanilla JavaScript (Fetch API); minimal styling.
+- Frontend: HTML + vanilla JavaScript (Fetch API); minimal styling.
 
-3- Testing: Jest/Supertest (or similar) for core CRUD endpoints.
+- Testing: Jest/Supertest (or similar) for core CRUD endpoints.
 
-4- Version Control: Git & GitHub.
+- Version Control: Git & GitHub.
 
-5- Documentation: README in repo + a shared Google Doc for specs, API details, and test notes.
+- Documentation: README in repo + a shared Google Doc for specs, API details, and test notes.
 
 # Features Summary:
 1- Products CRUD: name, category, artisan reference, cost/price, stock; validations (e.g., stock ≥ 0).

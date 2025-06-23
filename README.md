@@ -1,4 +1,4 @@
-# lahore-handicraft-system
+# Lahore-Handicraft-System
 
 
 ## 📍 Company & Project Context

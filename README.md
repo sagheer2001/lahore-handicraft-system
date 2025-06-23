@@ -2,10 +2,10 @@
 
 
 ## 📍 Company & Project Context
-Company Name:
+**Company Name**:
 Lahore Handicraft Hub
 
-Headquarters:
+**Headquarters**:
 Lahore, Pakistan
 (Google Maps: search Lahore Handicraft Hub)
 
@@ -14,8 +14,8 @@ A small retail outlet selling locally made crafts (woodwork, textiles, pottery, 
 
 ## Project Objective:
 Build a lightweight web system to manage inventory, suppliers (artisans), and orders; give low-stock alerts and simple sales insights; demonstrate CRUD via a frontend + API.
-
-## GitHub Repository:
+**Google Maps Link**: [Handicrafts Gallery](https://g.co/kgs/j1Vc3en) 
+**GitHub Repository**:
 https://github.com/sagheer2001/lahore-handicraft-system
 
 ## My Individual Role:

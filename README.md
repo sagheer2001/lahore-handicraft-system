@@ -14,10 +14,10 @@ A small retail outlet selling locally made crafts (woodwork, textiles, pottery, 
 
 ## Project Objective:
 Build a lightweight web system to manage inventory, suppliers (artisans), and orders; give low-stock alerts and simple sales insights; demonstrate CRUD via a frontend + API.
-**Google Maps Link**: [Handicrafts Gallery](https://g.co/kgs/j1Vc3en) 
-**GitHub Repository**:
-https://github.com/sagheer2001/lahore-handicraft-system
 
+**Google Maps Link**: [Handicrafts Gallery](https://g.co/kgs/j1Vc3en) 
+**GitHub Repository**:https://github.com/sagheer2001/lahore-handicraft-system
+---
 ## My Individual Role:
 - Act as full-stack developer: gather requirements from the shop owner, design data model, implement backend API and frontend UI, write basic tests, and document everything.
 

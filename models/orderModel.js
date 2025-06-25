@@ -6,6 +6,7 @@
 //   return orders;
 // }
 
+
 // async function getOrderById(id) {
 //   const [orderRows] = await pool.query('SELECT * FROM orders WHERE id = ?', [id]);
 //   if (!orderRows.length) return null;
